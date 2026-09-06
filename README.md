@@ -21,10 +21,10 @@ Electric:
 
 <img width="400" height="387" alt="Image" src="https://github.com/user-attachments/assets/d53c40ca-7f31-4382-9c37-c936cd4d3efb" />
 
-Wind:
+Beam:
 
 <img width="400" height="476" alt="Image" src="https://github.com/user-attachments/assets/7098d245-5be0-4b65-926b-f3f77dd21660" />
 
-Beam:
+Wind:
 
 <img width="400" height="286" alt="Image" src="https://github.com/user-attachments/assets/41239b80-1a9b-4593-a9ed-59510b25cd95" />
